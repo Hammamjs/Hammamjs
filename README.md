@@ -1,7 +1,7 @@
 # Hi there, I'm Hammam! 👋
 
 ### Full-Stack Engineer | TypeScript Specialist | Architecture Enthusiast
-I’m a software developer based in **Riyadh, Saudi Arabia**, dedicated to building scalable, high-performance web applications. I specialize in the **TypeScript ecosystem**, focusing on robust backend structures and seamless frontend experiences.
+I’m a software developer based in **Makkah, Saudi Arabia**, dedicated to building scalable, high-performance web applications. I specialize in the **TypeScript ecosystem**, focusing on robust backend structures and seamless frontend experiences.
 
 ---
 
